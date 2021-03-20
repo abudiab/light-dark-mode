@@ -57,3 +57,5 @@ if (currentTheme) {
     darkMode();
   }
 }
+
+// You can refactor the code and stay DRY
